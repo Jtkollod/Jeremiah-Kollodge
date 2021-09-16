@@ -1,3 +1,6 @@
 CS 3141 R02 
 Jerry Jones
 jerryjon@mtu.edu
+
+Jeremiah Kollodge
+jtkollod@mtu.edu
